@@ -1,0 +1,70 @@
+.navbar {
+  
+  position: fixed;
+  top: 0;
+}
+
+.back-ground{
+background: linear-gradient(darkblue, purple);
+width: 1349px;
+height: 500px;
+clip-path: polygon(100% 0%, 100% 77%, 50% 100%,0 75%, 0 0);
+}
+
+.back-ground img{
+	transform: uppercase;
+	border-radius: 50%;
+	/*padding-left: 40px;*/
+}
+#myBtn {
+  display: none; 
+  position: fixed;position 
+  bottom: 20px; 
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color:purple; 
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px; 
+  font-size: 18px; 
+
+}
+
+#myBtn:hover {
+  background-color: darkblue;
+}
+
+.css-img:hover{
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+  transform: translateY(-20px);">
+}
+
+.java-img:hover{
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+  transform: translateY(-20px);">
+}
+
+.java-img{
+background: #fff;
+border: medium none;
+padding: 30px!important;
+border-radius: 3px;
+transition: 0.3;s
+}
+.css-img{
+background: #fff;
+border: medium none;
+padding: 30px!important;
+border-radius: 3px;
+transition: 0.3;s
+}
+
+
+.div-tim:hover{
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+  transform: translateY(-20px);">
+}
+
